@@ -1,0 +1,4 @@
+file:
+    file_name: 'dummy_sales.csv'
+    separator: ','
+    
